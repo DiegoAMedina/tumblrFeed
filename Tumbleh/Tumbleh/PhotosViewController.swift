@@ -1,10 +1,3 @@
-//
-//  PhotosViewController.swift
-//  Tumbleh
-//
-//  Created by Samba on 1/31/18.
-//  Copyright © 2018 Sandra Flores. All rights reserved.
-//
 
 import UIKit
 import AlamofireImage

@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Tumbleh
-//
-//  Created by Sandra Flores on 1/29/18.
-//  Copyright © 2018 Sandra Flores. All rights reserved.
-//
+
 
 import UIKit
 
